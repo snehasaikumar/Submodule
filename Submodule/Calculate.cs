@@ -23,9 +23,9 @@ namespace Submodule
             return a*b;
         }
 
-        public double Divide(int a, int b)
+        public double Divide(int e, int f)
         {
-            return a%b;
+            return e%f;
         }
 
     }
