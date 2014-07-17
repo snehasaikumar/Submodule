@@ -5,12 +5,12 @@ using System.Text;
 
 namespace Submodule
 {
-    public class Helper
+    public class Calculate
     {
 
-        public string GetStatus()
+        public int Subtract(int a, int b)
         {
-            return "I love nature :) ";
+            return a - b;
         }
 
         public int Add(int a, int b)
