@@ -13,5 +13,10 @@ namespace Submodule
             return "I love nature :) ";
         }
 
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
+
     }
 }
