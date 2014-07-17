@@ -18,9 +18,9 @@ namespace Submodule
             return a + b;
         }
 
-        public int Multiply(int a, int b)
+        public int Multiply(int c, int d)
         {
-            return a*b;
+            return c*d;
         }
 
         public double Divide(int e, int f)
