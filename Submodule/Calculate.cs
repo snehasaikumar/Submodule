@@ -28,7 +28,7 @@ namespace Submodule
             return e%f;
         }
 
-        //Testing submodule update
+        //Testing git pull recursive submodules
 
     }
 }
