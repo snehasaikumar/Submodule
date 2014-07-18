@@ -28,7 +28,7 @@ namespace Submodule
             return e%f;
         }
 
-        //Adding a new feature
+        //git submodule update --remote  
 
     }
 }
